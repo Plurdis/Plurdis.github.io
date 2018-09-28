@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            Plurdis
 tagline:          'Tips'
-description:      'Plurdis의 개인 블로그입니다.'
+description:      'Plurdis\' Personal Blog'
 url:              https://plurdis.github.io
 baseurl:          /
 
