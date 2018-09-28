@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            Plurdis
 tagline:          'Tips'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Plurdis의 개인 블로그입니다.'
 url:              https://plurdis.github.io
 baseurl:          /
 
