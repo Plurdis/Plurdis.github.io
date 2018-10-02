@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 블로그에 
+title: 블로그_소개 
 ---
 
 ## 블로그 소개
